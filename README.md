@@ -1,11 +1,11 @@
-About r-knockoff
-================
+About r-knockoff-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-knockoff-feedstock/blob/main/LICENSE.txt)
 
 Home: https://web.stanford.edu/group/candes/knockoffs/index.html
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-knockoff-feedstock/blob/main/LICENSE.txt)
 
 Summary: The knockoff filter is a general procedure for controlling the false discovery rate (FDR) when performing variable selection. For more information, see the website below and the accompanying paper: Candes et al., "Panning for gold: model-X knockoffs for high-dimensional controlled variable selection", J. R. Statist. Soc. B (2018) 80, 3, pp. 551-577.
 
